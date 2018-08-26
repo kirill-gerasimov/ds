@@ -10,7 +10,7 @@ See notebooks in the `nb` dir. Some extas:
    * <https://www.kaggle.com/mlg-ulb/creditcardfraud>
 4. Text classification, Reuters21578 news dataset
    * [Intro slides from Stanford's Dan Jurafsky](https://web.stanford.edu/~jurafsky/slp3/slides/7_NB.pdf)
-   * [Reuters21578 news dataset](https://archive.ics.uci.edu/ml/datasets/reuters-21578+text+categorization+collection) also as a [CSV](https://raw.githubusercontent.com/ZhibingChen/DM-Reuters21578/master/reutersCSV.csv)
+   * [Reuters21578 news dataset](https://archive.ics.uci.edu/ml/datasets/reuters-21578+text+categorization+collection) (also as a [CSV](https://raw.githubusercontent.com/ZhibingChen/DM-Reuters21578/master/reutersCSV.csv))
    
 ### Resources
 1. Vorontsov / Yandex / MIPT
