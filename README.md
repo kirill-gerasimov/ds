@@ -1,6 +1,8 @@
 # Data Stuff
+See notebooks in the `nb` dir. Some extas:
 
-1. Get acquainted with resources below
+1. Intro
+   * A [J.P. Morgan report] on ML in banking incl. some experiments of their own
 2. Iris dataset exploration
    * <https://machinelearningmastery.com/machine-learning-in-python-step-by-step/>
    * <http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html>
@@ -24,7 +26,7 @@
 1. classifiers: logreg, MLP, kNN, SVM, decision trees, RF, gradient boosting, naive Bayes
 2. visualization / dimensionality reduction: t-SNE (vis. only), PCA
 3. text pre-processing: stemming / lemmatization, bag of words approach, TF-IDF
-4. topic modeling
+4. topic modeling (SVD, LDA)
 5. word vector representations (word2vec, GloVe, fastText)
 6. sentence / document embeddings (SIF, doc2vec, StarSpace)
 7. advanced models: LSTM, GRU, CNN, ELMo, ULMFiT, Transformer
