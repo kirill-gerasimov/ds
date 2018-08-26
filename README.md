@@ -24,7 +24,7 @@ See notebooks in the `nb` dir. Some extas:
 ### Methods
 
 1. classifiers: logreg, MLP, kNN, SVM, decision trees, RF, gradient boosting, naive Bayes
-2. visualization / dimensionality reduction: t-SNE (vis. only), PCA
+2. dimensionality reduction, visualization: t-SNE (vis. only), PCA, UMAP
 3. text pre-processing: stemming / lemmatization, bag of words approach, TF-IDF
 4. topic modeling (SVD, LDA)
 5. word vector representations (word2vec, GloVe, fastText)
