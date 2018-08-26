@@ -2,7 +2,7 @@
 See notebooks in the `nb` dir. Some extas:
 
 1. Intro
-   * A [J.P. Morgan report] on ML in banking incl. some experiments of their own
+   * A [J.P. Morgan report](https://www.jpmorgan.com/global/research/machine-learning) on ML in banking incl. some experiments of their own
 2. Iris dataset exploration
    * <https://machinelearningmastery.com/machine-learning-in-python-step-by-step/>
    * <http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html>
