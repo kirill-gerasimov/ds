@@ -1,5 +1,5 @@
 # Data Stuff
-See notebooks in the `nb` dir. Some extas:
+See notebooks in the `nb` dir. Some extras:
 
 1. Intro
    * A [J.P. Morgan report](https://www.jpmorgan.com/global/research/machine-learning) on ML in banking incl. some experiments of their own
@@ -16,7 +16,7 @@ See notebooks in the `nb` dir. Some extas:
 1. Vorontsov / Yandex / MIPT
    * [intro course](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/), short simple videos (but with homework takes 7w)
    * [specialization](https://www.coursera.org/specializations/machine-learning-data-analysis) based on the previous course
-   * the [SHAD course](https://yandexdataschool.ru/edu-process/courses/machine-learning) both above are actually based on
+   * the [YDS course](https://yandexdataschool.ru/edu-process/courses/machine-learning) both above are actually based on
    * [its wiki page](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%28%D0%BA%D1%83%D1%80%D1%81_%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%2C_%D0%9A.%D0%92.%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%29) with slides and notes
 2. Natural language processing [overview course](https://www.coursera.org/learn/language-processing/)
 3. [Andrew Ng](https://www.coursera.org/learn/machine-learning)
