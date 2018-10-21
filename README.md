@@ -12,10 +12,15 @@ See notebooks in the `nb` dir. Some extras:
    * [Intro slides from Stanford's Dan Jurafsky](https://web.stanford.edu/~jurafsky/slp3/slides/7_NB.pdf)
    * [Reuters21578 news dataset](https://archive.ics.uci.edu/ml/datasets/reuters-21578+text+categorization+collection) (also as a [CSV](https://raw.githubusercontent.com/ZhibingChen/DM-Reuters21578/master/reutersCSV.csv))
 5. Pandas and Numpy [Intro / Cheatsheets](https://github.com/kirill-gerasimov/ds/tree/master/nb/5_pandas_introduction)
+
 6, 7. Logistic regression, decision trees, boosting, hyperparameter tuning -- discussed offline
+
 8a. SVM -- a brief [comparison of kernels](https://github.com/kirill-gerasimov/ds/blob/master/nb/8_topic_modeling_and_svm/Compare%20SVM%20Kernels%20By%20Olga%20Odintsova.html)
+
 8b. Topic modeling [applied to get extra features](https://github.com/kirill-gerasimov/ds/blob/master/nb/8_topic_modeling_and_svm/reuters21578_topic-modeling.ipynb)
+
 9a. [Some experiments with word2vec](https://github.com/kirill-gerasimov/ds/tree/master/nb/9_word2vec_and_nn) incl. a word analogies demo and text classification
+
 9b. URLs to some curious resources about neural networks
 
 ### Resources
